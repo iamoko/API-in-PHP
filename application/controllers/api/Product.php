@@ -1,5 +1,6 @@
 <?php
    
+   /** Developed by Amoko Ivan **/
    require APPPATH . '/libraries/REST_Controller.php';
    use Restserver\Libraries\REST_Controller;
      
